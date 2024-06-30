@@ -10,8 +10,6 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tracker-zhuqiy.dgj055.icu:443/announce
-
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -118,8 +116,6 @@ udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -154,6 +150,8 @@ udp://seedpeer.net:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://tk1.trackerservers.com:8080/announce
+
 udp://tk2.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
@@ -179,8 +177,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
-
-udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -208,17 +204,19 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
+udp://tracker.skynetcloud.site:6969/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
